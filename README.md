@@ -147,7 +147,7 @@ The proposed KID-VLM framework combines:
 The complete research manuscript is available in:
 
 ```
-paper/KID-VLM_Research_Paper.pdf
+[KID-VLM Research Paper](T7_BTech_AIML_KIDVLM_for_IndecentMemes (3).pdf)
 ```
 ---
 
